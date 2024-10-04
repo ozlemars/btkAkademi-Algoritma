@@ -10,8 +10,10 @@ Merhaba! Ben Özlem ve İstanbul Gelişim Üniversitesi'nde Yönetim Bilişim Si
 
 ## 1. Temel Programlama
 Programlamaya giriş yapılarak, farklı programlama dilleri değerlendirilmiş daha sonra değişkenler, operatörler, sabitler, koşul ifadeleri, çevrimler, diziler, listeler, metotlar gibi temel programlama bileşenleri uygulamları ele alınmıştır. 
-#[1.Değer ve Referans Tipler ](https://github.com/ozlemars/btkAkademi-Algoritma/tree/main/TemelProgramlama/1)
-#[2.Liste Uygulaması ](https://github.com/ozlemars/btkAkademi-Algoritma/tree/main/TemelProgramlama/2)
+
+##[1.Değer ve Referans Tipler ](https://github.com/ozlemars/btkAkademi-Algoritma/tree/main/TemelProgramlama/1)
+
+##[2.Liste Uygulaması ](https://github.com/ozlemars/btkAkademi-Algoritma/tree/main/TemelProgramlama/2)
 
 
 
